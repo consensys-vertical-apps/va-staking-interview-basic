@@ -1,0 +1,23 @@
+{
+  "name": "stack-queue",
+  "version": "0.0.1",
+  "description": "A stack queue",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jest": "^25.1.0"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "@babel/preset-typescript": "^7.8.3",
+    "@types/jest": "^25.1.4",
+    "babel-jest": "^25.1.0",
+    "prettier": "^1.19.1",
+    "typescript": "^3.8.3"
+  }
+}
