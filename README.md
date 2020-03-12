@@ -8,6 +8,12 @@ When you take a plate off the top to wash it, you're taking the last plate you p
 
 Write you own implementation of the Stack collection
 
+# Queue
+
+A queue stores items in a first-in, first-out (FIFO) order.
+
+Picture a queue like the line outside a busy restaurant. First come, first served.
+
 
 # Development
 
