@@ -1,3 +1,7 @@
+# Installation 
+
+You can use `nvm use` to configure the node version.
+
 # Stack
 
 A `stack` stores items in a last-in, first-out (LIFO) order.
